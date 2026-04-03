@@ -51,7 +51,7 @@ studentapi
 
 The Spring Boot application starts successfully and initializes the embedded Tomcat server.
 
-![Tomcat Server Start](screenshots/first.png)
+![Tomcat Server Start](Screenshots/first.png)
 
 ---
 
@@ -90,7 +90,7 @@ GET /student/1
 
 Response returns student details.
 
-![Valid Student](screenshots/1.png)
+![Valid Student](Screenshots/1.png)
 
 ---
 
@@ -104,7 +104,7 @@ GET /student/10
 
 Response returns a structured error message.
 
-![Student Not Found](screenshots/2.png)
+![Student Not Found](Screenshots/2.png)
 
 ---
 
@@ -118,7 +118,7 @@ GET /student/abc
 
 Response returns an invalid input error message.
 
-![Invalid Input](screenshots/3.png)
+![Invalid Input](Screenshots/3.png)
 
 ---
 
